@@ -15,25 +15,34 @@ This repository showcases a collection of projects and work that I’ve created 
 Here’s a glimpse of what you’ll find in this portfolio:
 
 Project 1: Project Name - A brief description of the project and its features.
+
 Project 2: Project Name - Another project with a unique design and functionality.
+
 Project 3: Project Name - Details of the design approach and implementation.
 
 🎨 Technologies Used
 --------------------
 
 SCSS: For streamlined and organized styling.
+
 CSS: To ensure cross-browser compatibility and styling precision.
+
 💡 Features
 ------------
 
 Responsive Design: Optimized for all device sizes.
+
 Custom Animations: Smooth transitions and effects to enhance user experience.
+
 Clean Code: Well-organized SCSS and CSS for easy maintenance and scalability.
+
 🌟 Highlights
 --------------
 
 Innovative Styling: Unique design elements that set each project apart.
+
 User-Centric Design: Focused on creating intuitive and engaging user interfaces.
+
 Performance Optimization: Efficient and lightweight code for fast load times.
 
 
