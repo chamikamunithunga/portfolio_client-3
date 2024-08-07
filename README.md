@@ -37,6 +37,19 @@ User-Centric Design: Focused on creating intuitive and engaging user interfaces.
 Performance Optimization: Efficient and lightweight code for fast load times.
 
 
+📫 Contact Me
+-------------
+
+Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
+
+Email: chamikamunithunga140@gmail.com
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chamika-munithunga-74801a2b1/)
+
+
+💬 Feedback
+------------
+I welcome any feedback or suggestions you may have to help improve this portfolio. Your insights are invaluable!
+
 
 
 
